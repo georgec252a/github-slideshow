@@ -13,6 +13,10 @@ else
   repo=$1
 fi
 
+test
+
+test2
+
 # Build the site
 #
 # Generate the Jekyll site with an alterate baseurl for the intenral-only
