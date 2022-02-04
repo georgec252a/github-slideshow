@@ -21,6 +21,8 @@ main
 
 test3
 
+dev
+
 # Build the site
 #
 # Generate the Jekyll site with an alterate baseurl for the intenral-only
